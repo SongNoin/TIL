@@ -1,2 +1,2 @@
 # TIL
-✍️기록하면서 공부하는 타입✍️
+✍️Today I Learned✍️
